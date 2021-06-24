@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, food, fitness, and books!
 - 🌱 I’m currently studying at the University of California, Santa Cruz!
 - 💞️ I’m looking to collaborate on projects. 
-- 📫 You can reach me at: alexcheung880@gmail.com
+- 📫 You can reach me at: alexcheung880@gmail.com or find me on LinkedIn! https://www.linkedin.com/in/alexkcheung/
 
 <!---
 AlexKCheung/AlexKCheung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
