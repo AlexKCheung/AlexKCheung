@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex Cheung
-- ⭐ I’m interested in software development, food, fitness, and books!
-- 🎓 Studying Computer Science at the University of California, Santa Cruz!
-- 👀 Seeking internship for Summer 2022. 
+- ⭐ I’m interested in software development, books, and food!
+- 🎓 Studying Computer Science at University of California, Santa Cruz!
+- 👀 Seeking an internship for Summer 2022. 
 - 📫 You can reach me at: alexcheung880@gmail.com 
 - 😊 Let's connect on LinkedIn! https://www.linkedin.com/in/alexkcheung/
 
