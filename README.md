@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Alex Cheung
 - ⭐ I’m interested in software development, books, and food!
 - 🎓 Studying Computer Science at University of California, Santa Cruz!
-- 😎 Currently interning at Caban Systems!
-- 👀 Seeking an internship for Summer 2022. 
 - 📫 You can reach me at: alexcheung880@gmail.com 
 - 😊 Let's connect on LinkedIn! https://www.linkedin.com/in/alexkcheung/
 
